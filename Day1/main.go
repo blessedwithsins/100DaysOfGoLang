@@ -13,7 +13,7 @@ import "fmt"
 // Println is a function in fmt package which is used to print the output to the console. It prints and adds a new line at the end.
 
 func main() {
-	fmt.Println("Hello, World!")
+	fmt.Println("Hello, Gophers!")
 }
 
 /*
